@@ -1,0 +1,6 @@
+{
+  "name": "SiloVerse Client Intelligence Explorer",
+  "description": "Consilio Verse World 05 Observatory exploring client intelligence, services, revenue records, and data quality workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
